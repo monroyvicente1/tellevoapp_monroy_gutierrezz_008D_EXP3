@@ -1,0 +1,51 @@
+.logo-right {
+  max-width: 50px; /* Ajusta el ancho según sea necesario */
+  max-height: 50px; /* Ajusta la altura según sea necesario */
+  margin-left: 10px; /* Ajusta el margen izquierdo según sea necesario */
+}
+.header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    .subTitle {
+        color: gray;
+        font-size: 0.9rem;
+        margin-left: 15%;
+        margin-right: 15%;
+        justify-content: center;
+    }
+    title {
+        font-size: 2rem;
+    }
+
+}
+
+ion-item {
+    --background: #f1f1f1;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 0.9rem;
+}
+
+ul.prediction-list li {
+    cursor: pointer;
+  }
+
+#map{
+    margin: auto;
+}
+
+/* En tu archivo de estilos global o en el componente específico */
+.disable-number-input::-webkit-inner-spin-button,
+.disable-number-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.disable-number-input {
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+
+.letra{
+     font-size: x-small;
+}

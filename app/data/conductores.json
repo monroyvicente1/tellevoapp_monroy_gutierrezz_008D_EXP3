@@ -1,0 +1,131 @@
+{
+  "pasajeros": [
+    {
+      "id": 1,
+      "rut": "18.663.950-2",
+      "email": "crisfell12@duocuc.cl",
+      "sede": "maipu",
+      "password": "12345678",
+      "rol": "Pasajero"
+    },
+    {
+      "email": "ssssss@gmail.com",
+      "sede": "maipu",
+      "rut": "20876222-5",
+      "password": "colocolo3",
+      "rol": "Pasajero",
+      "id": 2
+    },
+    {
+      "email": "vicentt122@gmail.com",
+      "sede": "plaza-vespucio",
+      "rut": "2828938-4",
+      "password": "vicente19",
+      "rol": "Pasajero",
+      "id": 3
+    }
+  ],
+  "conductores": [
+    {
+      "id": 1,
+      "rut": "20.762.050-5",
+      "email": "vi.monroy@duocuc.cl",
+      "sede": "maipu",
+      "patente": "GBCC77",
+      "password": "vicente123",
+      "rol": "Conductor"
+    },
+    {
+      "email": "maxigb@gmail.com",
+      "sede": "plaza-oeste",
+      "rut": "12.333.444-6",
+      "patente": "GHJK77",
+      "password": "12345678",
+      "rol": "Conductor",
+      "id": 2
+    },
+    {
+      "email": "ssssss@gmail.com",
+      "sede": "melipilla",
+      "rut": "29838050-5",
+      "patente": "DBGG28",
+      "password": "vicente10",
+      "rol": "Conductor",
+      "id": 3
+    }
+  ],
+  "detalle": [
+    {
+      "email": "alex.pizarro@duocuc.cl",
+      "direccion": "Avenida Manuel Montt, Providencia, Chile",
+      "precio": "50000",
+      "nota": "",
+      "patente": "3287283723",
+      "id": 1
+    },
+    {
+      "email": "jordan.gang@duocuc.cl",
+      "direccion": "Avenida Los Cerrillos, Cerrillos, Chile",
+      "precio": "",
+      "nota": "",
+      "patente": "GKMS78",
+      "id": 2
+    },
+    {
+      "email": "juanka77@duocuc.cl",
+      "direccion": "Avenida Manuel Montt, Providencia, Chile",
+      "precio": "",
+      "nota": "",
+      "patente": "GKGB91",
+      "id": 3
+    },
+    {
+      "email": "pailita77@duocuc.cl",
+      "direccion": "Mallplaza Oeste - Avenida Américo Vespucio, Santiago, Cerrillos, Chile",
+      "precio": 5000,
+      "nota": "sdssd",
+      "patente": "GKMG37",
+      "id": 4
+    },
+    {
+      "email": "jordan23@duocuc.cl",
+      "direccion": "Avenida Lumen, Maipú, Chile",
+      "precio": 2000,
+      "nota": "",
+      "patente": "GKMG87",
+      "id": 6
+    },
+    {
+      "email": "balbie112@duocuc.cl",
+      "direccion": "Avenida Central, Maipú, Chile",
+      "precio": 2001,
+      "nota": "",
+      "patente": "GBCC77",
+      "id": 7
+    },
+    {
+      "email": "bayrondisdier@duocuc.cl",
+      "direccion": "Avenida pajaritos, Maipú, Chile",
+      "precio": 2001,
+      "nota": "",
+      "patente": "GBLN77",
+      "id": 8
+    },
+    {
+      "email": "vi.monroy@duocuc.cl",
+      "direccion": "Avenida Lumen, Maipú, Chile",
+      "precio": 2000,
+      "nota": "",
+      "patente": "GBCC77",
+      "id": 9
+    },
+    {
+      "email": "vi.monroy@duocuc.cl",
+      "direccion": "Avenida Lumen, Maipú, Chile",
+      "precio": 2000,
+      "nota": "",
+      "patente": "GBCC77",
+      "id": 10
+    }
+  ]
+}

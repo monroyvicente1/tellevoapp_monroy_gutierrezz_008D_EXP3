@@ -1,0 +1,35 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+
+    <ion-buttons slot="start">
+      <ion-button (click)="MostrarMenu()">
+        <ion-icon slot="icon-only" name="menu-outline" color="primary"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+
+
+    
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+
+  <div class="container">
+
+    <ion-img src="assets/logoauto.jpg"></ion-img>
+    
+
+  </div>
+
+  
+
+  <ion-button [routerLink]="['/tipouseris']" size="small" expand="block" fill="solid" color="primary" shape="round" class="btn-custom">
+    Iniciar Sesion
+  </ion-button>
+
+  <ion-button [routerLink]="['/tipo-user']" size="small" expand="block" fill="solid" color="warning" shape="round">
+    Registrar
+  </ion-button>
+
+</ion-content>
